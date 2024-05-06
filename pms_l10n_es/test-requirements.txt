@@ -1,1 +1,1 @@
-odoo14-addon-l10n_es_aeat_partner_identification@git+https://github.com/OCA/l10n-spain.git@refs/pull/2520/head#subdirectory=setup/l10n_es_aeat_partner_identification
+odoo14-addon-l10n_es_aeat_partner_identification@git+https://github.com/commitsun/pms.git@14.0-fix-test#subdirectory=setup/l10n_es_aeat_partner_identification
